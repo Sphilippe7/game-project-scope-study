@@ -16,6 +16,14 @@ Submit detailed answers to the following in this file via a pull request:
 
 -   A wireframe of what your game project will look like.
 
+Artboard 1: <blockquote class="imgur-embed-pub" lang="en" data-id="a/7v98p"><a href="//imgur.com/7v98p"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+Artboard 2: <blockquote class="imgur-embed-pub" lang="en" data-id="a/OqHWP"><a href="//imgur.com/OqHWP"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+Artboard 3: <blockquote class="imgur-embed-pub" lang="en" data-id="a/HuGs2"><a href="//imgur.com/HuGs2"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
+
 -   The data structure you plan to use.
 I plan to use an SPA to make the game fluid and smooth. So that means it will be
 in JSON format
